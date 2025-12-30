@@ -5,151 +5,106 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-75%20Study%20Plan-orange)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Strong-success)
 ![Status](https://img.shields.io/badge/Status-Active%20Daily-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/LeetCode-75)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/your-username/LeetCode-75)
+![GitHub last commit](https://img.shields.io/github/last-commit/mudassirfaaiz15/Leetcode75)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mudassirfaaiz15/Leetcode75)
 
 ---
 
-## 👨‍💻 About This Repository
+## Overview
 
-This repository represents my **daily problem-solving practice** through the **LeetCode 75 Study Plan**, implemented in **Python**.
+This repository contains my **daily Python solutions** for the **LeetCode 75 Study Plan**, focused on building **strong Data Structures & Algorithms fundamentals** and preparing for **Software Development Engineer (SDE)** roles.
 
-The objective is to build **strong Data Structures & Algorithms fundamentals**, improve **problem-solving efficiency**, and prepare for **Software Development Engineer (SDE) roles** and **technical interviews**.
-
-This repository serves as:
-- 📘 A structured **DSA learning log**
-- 📈 Proof of **daily coding consistency**
-- 🧠 Interview-focused problem collection
-- 💼 A **recruiter-friendly portfolio**
+The emphasis is on **clean code, optimal solutions, and interview-oriented problem solving**.
 
 ---
 
-## 🎯 Why LeetCode 75?
+## Objective
 
-**LeetCode 75** is a curated set of the **most frequently asked interview problems**, designed to cover **core computer science fundamentals** efficiently.
-
-It focuses on:
-- Real interview patterns
-- Optimal algorithmic thinking
-- Incremental difficulty
-- High-impact DSA concepts
+- Strengthen core **DSA concepts**
+- Improve **problem-solving efficiency**
+- Build **daily coding consistency**
+- Prepare for **technical interviews**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack
 
-- **Programming Language:** Python  
-- **Core Skills:** Data Structures, Algorithms, Problem Solving  
-- **Concepts:** Arrays, Strings, Hashing, Trees, Graphs, DP  
-- **Tools:** Git, GitHub, VS Code, LeetCode  
-- **Target Roles:** SDE, Software Engineer, Backend Engineer  
+- **Language:** Python  
+- **Concepts:** Data Structures, Algorithms  
+- **Tools:** Git, GitHub, LeetCode, VS Code  
 
 ---
 
----
+## Topics Covered
 
-## 📚 Topics Covered (Interview-Focused)
-
-✔ Arrays & Strings  
-✔ Two Pointers  
-✔ Sliding Window  
-✔ Prefix Sum  
-✔ Hash Map & Set  
-✔ Stack & Queue  
-✔ Linked List  
-✔ Binary Tree & BST  
-✔ Binary Search  
-✔ Graphs (DFS & BFS)  
-✔ Intro to Dynamic Programming  
+- Arrays & Strings  
+- Two Pointers  
+- Sliding Window  
+- Prefix Sum  
+- Hash Map & Set  
+- Stack & Queue  
+- Linked List  
+- Binary Tree & BST  
+- Binary Search  
+- Graphs (DFS / BFS)  
+- Dynamic Programming (Basics)
 
 ---
 
-## 🧠 Problem Format (Standardized)
+## Solution Structure
 
-Each problem includes:
-
-- 🔗 **LeetCode Problem Link**
-- 🧩 **Problem Summary**
-- 💡 **Approach Explanation**
-- ⏱️ **Time & Space Complexity**
-- 🧪 **Edge Case Handling**
-- 🧠 **Interview Insights**
+Each problem solution includes:
+- LeetCode problem reference
+- Clear and concise implementation
+- Optimized time and space complexity
+- Edge case handling
+- Interview-ready approach
 
 ---
 
-## 📌 Sample Problem Entry
+## Sample Problem
 
-### 🔹 Find the Highest Altitude
-- **LeetCode:** https://leetcode.com/problems/find-the-highest-altitude/
-- **Topic:** Prefix Sum
-
-**Approach:**
-- Start from altitude `0`
-- Accumulate gains using prefix sum
-- Track maximum altitude at each step
-
-**Time Complexity:** `O(n)`  
-**Space Complexity:** `O(1)`
+**Find the Highest Altitude**  
+- Link: https://leetcode.com/problems/find-the-highest-altitude/  
+- Topic: Prefix Sum  
+- Time Complexity: `O(n)`  
+- Space Complexity: `O(1)`
 
 ---
 
-## 📈 Progress Tracker
+## Progress Tracking
 
-| Day | Topic | Problem | Status |
-|----|------|--------|--------|
-| Day 1 | Arrays | Merge Strings Alternately | ✅ |
-| Day 2 | Arrays | Move Zeroes | ✅ |
-| Day 3 | Prefix Sum | Find Highest Altitude | ✅ |
-| Day 4 | Two Pointers | Is Subsequence | ✅ |
-| Day 5 | Sliding Window | Max Vowels in Substring | ✅ |
-| ... | ... | ... | 🚀 |
-
----
-
-## 🔁 Daily Commit Automation (GitHub Actions)
-
-This repository uses **GitHub Actions** to encourage **daily commits**, demonstrating **discipline and consistency** — a key trait recruiters value.
-
-📌 *Each day at least one problem or improvement is committed.*
+| Day | Topic | Problem |
+|----|------|--------|
+| 1 | Arrays | Merge Strings Alternately |
+| 2 | Arrays | Move Zeroes |
+| 3 | Prefix Sum | Find Highest Altitude |
+| 4 | Two Pointers | Is Subsequence |
+| 5 | Sliding Window | Max Vowels in Substring |
 
 ---
 
-## 🏆 What Recruiters Will See
+## Automation
 
-✅ Consistent daily problem-solving  
-✅ Strong Python fundamentals  
-✅ Interview-relevant DSA topics  
-✅ Clean, readable, optimized code  
-✅ Real commitment to skill growth  
+This repository follows **daily commit discipline**, supported by **GitHub Actions**, to maintain consistent progress and visible activity.
 
 ---
 
-## 📌 ATS Keywords (Optimized)
+## Recruiter Notes
 
-> Python, Data Structures, Algorithms, DSA, Problem Solving, LeetCode, Software Development Engineer, SDE, Backend Development, Coding Interviews, Git, GitHub, Time Complexity, Space Complexity, DFS, BFS, Dynamic Programming, Arrays, Hash Maps
-
----
-
-## 🚀 Future Enhancements
-
-- Add **solution explanations in markdown**
-- Add **alternative optimized approaches**
-- Add **mock interview notes**
-- Add **advanced DP & graph problems**
-- Add **daily streak visualization**
+- Consistent daily coding practice  
+- Strong Python and DSA fundamentals  
+- Interview-relevant problem set  
+- Clean, readable, optimized solutions  
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
-- 💻 GitHub: https://github.com/your-username  
-- 🧠 LeetCode: https://leetcode.com/your-username  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- **GitHub:** https://github.com/mudassirfaaiz15  
+- **LeetCode:** https://leetcode.com/u/mudassirfaaiz/  
+- **LinkedIn:** https://www.linkedin.com/in/mohammed-mudassir-faaiz-355694293/
 
 ---
 
-### ⭐ If you find this repository helpful, feel free to star it!
-
-> *Consistency + Fundamentals = Interview Success* 🚀
-
-
+⭐ *This repository reflects consistent practice and continuous improvement in problem solving.*
