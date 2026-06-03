@@ -10,8 +10,8 @@ class Solution:
         dummy = ListNode(0)
         dummy.next = head
 
-        fast = dummy
         slow = dummy
+        fast = dummy
 
         # Move fast pointer n+1 steps ahead
         for _ in range(n + 1):
@@ -19,8 +19,8 @@ class Solution:
 
         # Move both pointers
         while fast:
-            fast = fast.next
             slow = slow.next
+            fast = fast.next
 
         # Remove nth node
         slow.next = slow.next.next
