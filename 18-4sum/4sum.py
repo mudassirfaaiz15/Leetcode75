@@ -1,19 +1,17 @@
 class Solution:
-    def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
-
+    def fourSum(self, nums, target):
+        
         nums.sort()
         result = []
         n = len(nums)
 
         for i in range(n - 3):
 
-            # Skip duplicates for i
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
             for j in range(i + 1, n - 2):
 
-                # Skip duplicates for j
                 if j > i + 1 and nums[j] == nums[j - 1]:
                     continue
 
@@ -36,7 +34,6 @@ class Solution:
                         left += 1
                         right -= 1
 
-                        # Skip duplicates
                         while left < right and nums[left] == nums[left - 1]:
                             left += 1
 
